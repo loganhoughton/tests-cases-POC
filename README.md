@@ -26,4 +26,5 @@ _What I want to learn:_
 
 
 1.) Automation
+
 2.) Advance my terminology in regards to QA
