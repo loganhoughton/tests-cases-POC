@@ -9,7 +9,19 @@ _I am currently learning:_
 * Atom
 * Jira
 * Markdown
+* Android Studio
+* XCode
+
+_My Interests:_
+* RPGs
+* Drag Queens
+* Obscure Animal Facts
+* Sci-Fi/Fantasy films
 
 ### You can follow along with my progress in building test cases and test suites on [Logan's Test Cases](https://docs.google.com/spreadsheets/d/1nNLWq_V5NfEzI_lIbBprczLOWnXbicCwSGHBjrFdo7c/edit?usp=sharing)
 
 This is a link to my Google Sheets that has a collection of my practice test cases across various applications.
+
+_What I want to learn:_
+1.) Automation
+2.) Advance my terminology in regards to QA
