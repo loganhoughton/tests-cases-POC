@@ -23,5 +23,7 @@ _My Interests:_
 This is a link to my Google Sheets that has a collection of my practice test cases across various applications.
 
 _What I want to learn:_
+
+
 1.) Automation
 2.) Advance my terminology in regards to QA
