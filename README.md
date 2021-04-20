@@ -10,6 +10,6 @@ _I am currently learning:_
 * Jira
 * Markdown
 
-### You can follow along with my progress in building test cases and test suites on [https://docs.google.com/spreadsheets/d/1nNLWq_V5NfEzI_lIbBprczLOWnXbicCwSGHBjrFdo7c/edit?usp=sharing]
+### You can follow along with my progress in building test cases and test suites on [Logan's Test Cases] (https://docs.google.com/spreadsheets/d/1nNLWq_V5NfEzI_lIbBprczLOWnXbicCwSGHBjrFdo7c/edit?usp=sharing)
 
 This is a link to my Google Sheets that has a collection of my practice test cases across various applications.
